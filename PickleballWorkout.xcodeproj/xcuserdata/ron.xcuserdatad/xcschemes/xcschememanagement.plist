@@ -9,10 +9,20 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>PickleballWorkoutWatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>E4D3327D1C83439E0042BC89</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E4D332941C8344000042BC89</key>
 		<dict>
 			<key>primary</key>
 			<true/>
